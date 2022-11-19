@@ -1,0 +1,6 @@
+div#intro.col-md-12.jumbotron.text-center {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1500;
+    color: blueviolet;
+    background-color: orange;    
+}
